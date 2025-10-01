@@ -1,0 +1,50 @@
+# ---------------------------
+# Python cache / virtualenv
+__pycache__/
+*.py[cod]
+*.so
+
+.venv/
+venv/
+env/
+*.env
+
+# ---------------------------
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------------------------
+# Artifacts (logs e models .pkl)
+artifacts/logs/*
+!artifacts/logs/.gitkeep
+
+artifacts/models/*
+!artifacts/models/.gitkeep
+
+# ---------------------------
+# Dados
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/predictions/*
+!data/predictions/.gitkeep
+
+# ---------------------------
+# Notebooks
+.ipynb_checkpoints/
+notebooks/eda.ipynb
+!notebooks/.gitkeep
+
+# ---------------------------
+# Outros arquivos
+*.tmp
+*.log
+*.bak
+*.DS_Store
+Thumbs.db
