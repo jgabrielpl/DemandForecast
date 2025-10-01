@@ -127,7 +127,9 @@ pip install -r requirements.txt
 ## Autor
 
 **José Gabriel**
+
 Estudante de Engenharia de Software | Focado em Engenharia de Dados
-🔗 [LinkedIn](https://www.linkedin.com/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
+
+[LinkedIn](https://www.linkedin.com/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
